@@ -4,9 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lascabim&label=Profile%20views&color=0e75b6&style=flat" alt="Lascabim" /> </p>
 </br>
 
+<div align="center">
  <a href="https://github.com/Lascabim">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lascabim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lascabim&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lascabim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lascabim&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <div style="display: inline_block"><br>
