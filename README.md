@@ -1,4 +1,4 @@
-## Olá sou o Lascabim, um gamer entusiasta em programação!
+## Hi, I am Lascabim, a gamer who is learning how to code!
 
 <div align="center">
   <a href="https://github.com/lascabim">
