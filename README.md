@@ -1,6 +1,6 @@
 ## Hi, I am Lascabim, a gamer who is learning how to code!
 <p align="center" > <img align="center" alt="counter" height="30" width="170" src="https://komarev.com/ghpvc/?username=Lascabim&label=Profile%20views&color=0e75b6&style=flat">
-  </p>
+</p>
 
 <div align="center">
  <a href="https://github.com/Lascabim">
