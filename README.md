@@ -18,9 +18,11 @@
 
   ##
  
-<div> 
-  <p><a href="https://www.paypal.com/myaccount/transfer/homepage" > <img src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210" alt="Lascabim"></a></p>
-  <p><a href="https://www.buymeacoffee.com/Lascabim?new=1"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lascabim"></a></p>
+<div align="center"> 
+  <p>
+  <a href="https://www.paypal.com/myaccount/transfer/homepage" > <img align="top" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210"></a>
+  <a href="https://www.buymeacoffee.com/Lascabim?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></a>
+ </p>
 </div>
 
 </div>
