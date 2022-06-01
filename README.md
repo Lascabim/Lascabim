@@ -5,8 +5,8 @@
 </br>
 
  <a href="https://github.com/Lascabim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lascabim&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lascabim&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lascabim&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -20,8 +20,13 @@
   ##
  
 <div> 
- <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+<p><a href="https://www.paypal.com/myaccount/transfer/homepage" align="center"> <img align="center" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210" alt="Dy" /></a>
+<p><a href="https://www.buymeacoffee.com/Lascabim?new=1"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dy" align="center" /></a></p>
+</br>
+</br>
+
+</div>
+ 
   ![Snake animation](https://github.com/Lascabim/Lascabim/blob/main/snake.svg) 
  
 </div>
