@@ -1,4 +1,9 @@
 ## Hi, I am Lascabim, a gamer who is learning how to code!
+
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lascabim&label=Profile%20views&color=0e75b6&style=flat" alt="Lascabim" /> </p>
+</br>
+
 <div align="center">
   <a href="https://github.com/Lascabim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lascabim&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
@@ -16,7 +21,8 @@
   ##
  
 <div> 
- 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
   ![Snake animation](https://github.com/Lascabim/Lascabim/blob/main/snake.svg) 
  
 </div>
