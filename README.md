@@ -25,7 +25,7 @@
 <div align="top"> 
   <p>
  <!-- <a href="https://www.paypal.com/paypalme/lascabime" target="_blank"> <img align="left" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210"></a> -->
-  <a href="https://www.buymeacoffee.com/Lascabim?new=1" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></a>
+<!--   <a href="https://www.buymeacoffee.com/Lascabim?new=1" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></a> -->
  </p>
 </div>
 
